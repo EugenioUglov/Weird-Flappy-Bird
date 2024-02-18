@@ -1,2 +1,3 @@
 # Weird-Flappy-Bird-Build
-A web Unity project
+Flappy Bird Clone with sick update.
+A web Unity project.
